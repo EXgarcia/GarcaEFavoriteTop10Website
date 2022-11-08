@@ -1,0 +1,22 @@
+.BGI {
+   
+  justify-content: center;
+  background: url(../asset/Back.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.Header1{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    font-style: italic;
+}
+.PG {
+    display: flex;
+    justify-content: center;
+    
+}
