@@ -37,3 +37,9 @@
   text-align:center;
   color: whitesmoke;
 }
+.Head2{
+  display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    font-style: italic;
+}
