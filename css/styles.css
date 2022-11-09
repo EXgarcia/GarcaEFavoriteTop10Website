@@ -1,4 +1,40 @@
-.container-bg
+
+/*-----Manuel-------------------------------------------------------------
+=======
+.Header1{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    font-style: italic;
+}
+.PG {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.Top1{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.Movie1{
+  display: flex;
+  justify-content: space-evenly;
+  text-align:center;
+  color: whitesmoke;
+}
+.Movie2{
+  display: flex;
+  justify-content: space-evenly;
+  text-align:center;
+  color: whitesmoke;
+}
+.Head2{
+  display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    font-style: italic;
+}.container-bg
 {
     justify-content: center;
     background: url(../assets1/Back.jpeg) no-repeat center center fixed;
@@ -28,10 +64,11 @@ p
 
 }
 
+<<<<<<< HEAD
 
 
 
 
 
 
-/*-----Manuel-------------------------------------------------------------
+>>>>>>> 22d93cece2d15cf2a451aacffa37b090305d361f
