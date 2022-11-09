@@ -27,10 +27,9 @@ h1{
    color: cornsilk;
 
 }
-big 
+.big 
 {
   text-decoration: underline;
-  back
 }
 
 
@@ -43,10 +42,10 @@ big
 -----Manuel------------------------------------------------------------- */
 
 .Header1{
-    display: flex;
-    justify-content: center;
-    color: whitesmoke;
-    font-style: italic;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  font-style: italic;
 }
 .PG {
     display: flex;
