@@ -1,6 +1,41 @@
+.container-bg
+{
+    justify-content: center;
+    background: url(../assets1/Back.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 800vh;
+    width: 100%;
+}
+h1{
+    color: cornsilk;
+    font-family:cursive;
+    text-decoration: underline;
+    text-align: center;
+}
+p
+{
+  color: cornsilk;
+  text-align: center;
+  font-size: x-large;
+}
+.container-cards
+{
+   margin-left: 15%;
+   color: cornsilk;
 
-/*-----Manuel-------------------------------------------------------------
-=======
+}
+
+
+
+
+
+
+/* 
+-----Manuel------------------------------------------------------------- */
+
 .Header1{
     display: flex;
     justify-content: center;
@@ -62,13 +97,5 @@ p
    margin-left: 15%;
    color: cornsilk;
 
-}
+} 
 
-<<<<<<< HEAD
-
-
-
-
-
-
->>>>>>> 22d93cece2d15cf2a451aacffa37b090305d361f
