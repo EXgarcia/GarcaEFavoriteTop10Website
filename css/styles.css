@@ -80,6 +80,17 @@ p
     height: 800vh;
     width: 100%;
 }
+
+.BGI{
+  justify-content: center;
+    background: url(../assets1/Back.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 800vh;
+    width: 100%;
+}
 h1{
     color: cornsilk;
     font-family:cursive;
