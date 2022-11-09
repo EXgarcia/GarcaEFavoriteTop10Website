@@ -20,3 +20,20 @@
     justify-content: center;
     text-align: center;
 }
+.Top1{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.Movie1{
+  display: flex;
+  justify-content: space-evenly;
+  text-align:center;
+  color: whitesmoke;
+}
+.Movie2{
+  display: flex;
+  justify-content: space-evenly;
+  text-align:center;
+  color: whitesmoke;
+}
