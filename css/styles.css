@@ -118,3 +118,21 @@ p
   height: 800vh;
   width: 100%;
 }
+
+.card{
+  height: 41rem;
+}
+
+.ImChange{
+  height: 350px;
+}
+.trailerBtn{
+  display: flex;
+  justify-content:center;
+  align-items: flex-end;
+}
+
+.btnLower {
+  display: flex;
+  align-content: flex-end;
+}
